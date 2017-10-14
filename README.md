@@ -1,2 +1,6 @@
 # hello-world
-test
+This is a test repository.
+$$E = mc^2$$
+\begin{align}
+E = mc^2
+\end{align}
